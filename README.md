@@ -4,23 +4,29 @@
 Honey Motor is an online car showroom platform. We are using Scrum to manage the project.
 
 ## Team Members
-- Raneem Tamer Ammar - Product Owner
-- Tasneim Amgad - Scrum Master
-- Nosyba Mohamed - Developer
-- Mohamed Ehap- Developer
+- Raneem Tamer Ammar - Frontend Developer
+- Tasneim Amgad - Backend Developer
+- Nosyba Mohamed - Backend Developer
+- Mohamed Ehap- Frontend Developer
 
 ## Scrum Setup
-### Product Backlog
-The product backlog lists all the tasks that we need to work on in the project.
-- [ ] Task 1: User Registration
-- [ ] Task 2: Vehicle Search Feature
-- [ ] Task 3: Payment Integration
-- [ ] Task 4: Admin Panel
+### Sprint 1: 
+**Duration:** 2 Weeks  
+**Objective:** Set up basic frontend and backend skeleton.
 
-### Sprint Backlog
-We plan our work in sprints, each lasting two weeks. This is what we’re working on in Sprint 1:
-- [ ] Task 1: Implement User Registration
-- [ ] Task 2: Create Vehicle Search Feature
+### Tasks:
+- **Raneem & Mohamed (Frontend)**: Create the homepage and vehicle listings page.
+- **Tasneim & Nosyba (Backend)**: Set up the basic database schema, APIs for vehicle data.
 
-### Retrospectives
-At the end of each sprint, we meet to discuss what went well and what can be improved.
+### Sprint 2:
+**Duration:** 2 Weeks  
+**Objective:** Add user authentication, car details page, and implement basic search filters.
+
+### Tasks:
+- **Raneem & Mohamed (Frontend)**: Implement user login, vehicle search filters.
+- **Tasneim & Nosyba (Backend)**: Implement authentication APIs, search functionality.
+
+### Technologies Used:
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Flask, MySQL
+
